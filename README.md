@@ -1,0 +1,2 @@
+This project based on IMKG: The Internet Meme Knowledge Graph by riccardo tommasini to understand the structural data for understanding meme, the trajectory for this project is to extract multimodality of data from meme that spread on the internet in campus situation.
+The main multimodal including detection object, detection text from images, entity, and semantic label. This conlude the contextual meme on the internet by 3 different account from instagram.
